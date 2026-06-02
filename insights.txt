@@ -1,0 +1,5 @@
+1. Product X generated the highest revenue.
+2. UPI was the most preferred payment method.
+3. Most orders were successfully delivered.
+4. Google generated the highest customer traffic.
+5. Revenue is concentrated in a few products.
